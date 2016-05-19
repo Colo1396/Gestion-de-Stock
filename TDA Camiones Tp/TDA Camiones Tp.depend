@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1463623906 source:c:\users\galva\desktop\unla 2016\aied\tda camiones tp\camion.cpp
+	"Camion.h"
+
+1463623906 c:\users\galva\desktop\unla 2016\aied\tda camiones tp\camion.h
+
+1463622765 source:c:\users\galva\desktop\unla 2016\aied\tda camiones tp\ingreso.cpp
+	"Ingreso.h"
+
+1463624842 c:\users\galva\desktop\unla 2016\aied\tda camiones tp\ingreso.h
+
+1463624623 source:c:\users\galva\desktop\unla 2016\aied\tda camiones tp\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Ingreso.h"
+	"Camion.h"
+
+1463622929 source:c:\users\galva\desktop\unla 2016\aied\tda camiones tp\solicitud.cpp
+	"Solicitud.h"
+
+1463622929 c:\users\galva\desktop\unla 2016\aied\tda camiones tp\solicitud.h
+
