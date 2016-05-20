@@ -20,3 +20,74 @@
 
 1463622929 c:\users\galva\desktop\unla 2016\aied\tda camiones tp\solicitud.h
 
+1463623906 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\camion.cpp
+	"Camion.h"
+
+1463713367 c:\users\galva\documents\gestion-de-stock\tda camiones tp\camion.h
+
+1463624842 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\ingreso.cpp
+	"Ingreso.h"
+
+1463624842 c:\users\galva\documents\gestion-de-stock\tda camiones tp\ingreso.h
+
+1463714292 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Ingreso.h"
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+
+1463714571 c:\users\galva\documents\gestion-de-stock\tda camiones tp\solicitud.h
+
+1463714117 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1463746444 source:f:\gestion-de-stock\tda camiones tp\camion.cpp
+	"Camion.h"
+
+1463746444 f:\gestion-de-stock\tda camiones tp\camion.h
+
+1463747494 source:f:\gestion-de-stock\tda camiones tp\ingreso.cpp
+	"Ingreso.h"
+	<iostream>
+
+1463746966 f:\gestion-de-stock\tda camiones tp\ingreso.h
+
+1463747352 source:f:\gestion-de-stock\tda camiones tp\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Ingreso.h"
+	"Camion.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1463714572 f:\gestion-de-stock\tda camiones tp\solicitud.h
+
+1463746778 source:f:\gestion-de-stock\tda camiones tp\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+

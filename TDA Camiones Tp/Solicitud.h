@@ -6,8 +6,7 @@ int id_pedido;
 int cod_suc;
 int cod_articulo;
 int cantidad;
-//hora
-
+char hora[150];
 }Solicitud;
 //********************************
 void crearSolicitud(Solicitud &solicitud);
@@ -24,6 +23,8 @@ int getCodArt(Solicitud &solicitud);
 //********************************
 int getCant(Solicitud &solicitud);
 //********************************
+char getHora(Solicitud &solicitud);
+//********************************
 void setIdPedido(Solicitud &solicitud,int IdPed);
 //********************************
 void setCodSuc(Solicitud &solicitud,int CodSuc);
@@ -32,5 +33,6 @@ void setCodArt(Solicitud &solicitud,int CodArt);
 //********************************
 void setCantidad(Solicitud &Solicitud,int Cant);
 //********************************
+void setHora(Solicitud &solicitud,char h);
 
 #endif // __SOLICITUD_H__

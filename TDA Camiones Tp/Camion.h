@@ -33,3 +33,5 @@ void setId_suc(Camion &camion,int idSuc);
 void verCamion(Camion &camion);
 
 #endif // __CAMION_H__
+
+
