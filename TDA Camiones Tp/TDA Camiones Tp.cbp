@@ -36,6 +36,8 @@
 		<Unit filename="Camion.h" />
 		<Unit filename="Ingreso.cpp" />
 		<Unit filename="Ingreso.h" />
+		<Unit filename="Pilas.cpp" />
+		<Unit filename="Pilas.h" />
 		<Unit filename="Solicitud.cpp" />
 		<Unit filename="Solicitud.h" />
 		<Unit filename="main.cpp" />

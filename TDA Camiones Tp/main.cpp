@@ -2,6 +2,7 @@
 #include "Solicitud.h"
 #include "Ingreso.h"
 #include "Camion.h"
+#include "Pilas.h"
 #include <cstdlib>
 #include <stdio.h>
 #include <conio.h>
@@ -27,6 +28,11 @@ int main()
     crearIngreso(ing);
     cout<<getHora(ing)<<endl;
     fflush(stdin);
+
+    Pila pila;
+    crearPila(pila);
+    push(pila,truc);
+    mostrar_pila(pila);
 
 
     return EXIT_SUCCESS;

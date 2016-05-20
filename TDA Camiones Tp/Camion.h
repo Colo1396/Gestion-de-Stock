@@ -1,7 +1,7 @@
 #ifndef __CAMION_H__
 #define __CAMION_H__
 //********************************
-typedef struct {
+typedef struct{
  int id_camion;
  float carga_total;
  float porcentaje;

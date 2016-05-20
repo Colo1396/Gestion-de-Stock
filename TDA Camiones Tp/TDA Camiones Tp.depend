@@ -20,30 +20,33 @@
 
 1463622929 c:\users\galva\desktop\unla 2016\aied\tda camiones tp\solicitud.h
 
-1463623906 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\camion.cpp
+1463754524 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\camion.cpp
 	"Camion.h"
 
-1463713367 c:\users\galva\documents\gestion-de-stock\tda camiones tp\camion.h
+1463755212 c:\users\galva\documents\gestion-de-stock\tda camiones tp\camion.h
 
-1463624842 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\ingreso.cpp
+1463747634 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\ingreso.cpp
 	"Ingreso.h"
+	<iostream>
 
-1463624842 c:\users\galva\documents\gestion-de-stock\tda camiones tp\ingreso.h
+1463747652 c:\users\galva\documents\gestion-de-stock\tda camiones tp\ingreso.h
 
-1463714292 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\main.cpp
+1463754634 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\main.cpp
 	<iostream>
 	"Solicitud.h"
 	"Ingreso.h"
 	"Camion.h"
+	"Pilas.h"
 	<cstdlib>
 	<stdio.h>
 	<conio.h>
 	<string>
 	<time.h>
+	<cstring>
 
-1463714571 c:\users\galva\documents\gestion-de-stock\tda camiones tp\solicitud.h
+1463714572 c:\users\galva\documents\gestion-de-stock\tda camiones tp\solicitud.h
 
-1463714117 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\solicitud.cpp
+1463746778 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\solicitud.cpp
 	"Solicitud.h"
 	"time.h"
 	<cstdlib>
@@ -90,4 +93,47 @@
 	<string>
 	<time.h>
 	<cstring>
+
+1463754524 source:f:\tda camiones tp probando pilas\camion.cpp
+	"Camion.h"
+
+1463755212 f:\tda camiones tp probando pilas\camion.h
+
+1463747634 source:f:\tda camiones tp probando pilas\ingreso.cpp
+	"Ingreso.h"
+	<iostream>
+
+1463747652 f:\tda camiones tp probando pilas\ingreso.h
+
+1463746778 source:f:\tda camiones tp probando pilas\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1463714572 f:\tda camiones tp probando pilas\solicitud.h
+
+1463754634 source:f:\tda camiones tp probando pilas\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Ingreso.h"
+	"Camion.h"
+	"Pilas.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1463754338 f:\tda camiones tp probando pilas\pilas.h
+	"Camion.h"
+
+1463783626 c:\users\galva\documents\gestion-de-stock\tda camiones tp\pilas.h
+	"Camion.h"
 

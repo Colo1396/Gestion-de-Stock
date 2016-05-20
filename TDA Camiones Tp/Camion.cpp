@@ -2,7 +2,7 @@
 //como seria el id del camion?
 //********************************
 void crearCamion(Camion &camion){
-camion.id_camion=5468;
+camion.id_camion=0;
 camion.carga_total=0;
 camion.porcentaje=0;
 camion.id_suc=0;
