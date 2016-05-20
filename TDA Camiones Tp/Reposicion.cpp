@@ -1,11 +1,11 @@
-#include "Ingreso.h"
+#include "Reposicion.h"
 #include <iostream>
 
 using namespace std;
 //********************************
-void crearIngreso(Ingreso &ingreso){
-ingreso.cod_articulo=0;
-ingreso.cantidad=0;
+void crearReposicion(Reposicion &reposicion){
+reposicion.cod_articulo=0;
+reposicion.cantidad=0;
  //*************************//
  //          FECHA          //
  //*************************//
@@ -13,13 +13,13 @@ ingreso.cantidad=0;
  struct tm *tlocal = localtime(&tiempo);
  char fechaaux[150];
  strftime(fechaaux,150,"%d/%m/%y %H:%M",tlocal);
- strcpy(ingreso.hora,fechaaux);
+ strcpy(reposicion.hora,fechaaux);
  // FIN FECHA
 }
 //********************************
-void crearIngreso(Ingreso &ingreso,int CodArt,int Cant){
-ingreso.cod_articulo=CodArt;
-ingreso.cantidad=Cant;
+void crearReposicion(Reposicion &reposicion,int CodArt,int Cant){
+reposicion.cod_articulo=CodArt;
+reposicion.cantidad=Cant;
  //*************************//
  //          FECHA          //
  //*************************//
@@ -27,30 +27,30 @@ ingreso.cantidad=Cant;
  struct tm *tlocal = localtime(&tiempo);
  char fechaaux[150];
  strftime(fechaaux,150,"%d/%m/%y %H:%M",tlocal);
- strcpy(ingreso.hora,fechaaux);
+ strcpy(reposicion.hora,fechaaux);
  // FIN FECHA
 }
 //********************************
-void destruirIngreso(Ingreso &ingreso){
+void destruirReposicion(Reposicion &reposicion){
 }
 //********************************
-int getCodArt(Ingreso &ingreso){
- return ingreso.cod_articulo;
+int getCodArt(Reposicion &reposicion){
+ return reposicion.cod_articulo;
 }
 //********************************
-int getCant(Ingreso &ingreso){
- return ingreso.cantidad;
+int getCant(Reposicion &reposicion){
+ return reposicion.cantidad;
 }
 //********************************
-char getHora(Ingreso &ingreso){
-cout<<ingreso.hora<<endl;
+char getHora(Reposicion &reposicion){
+cout<<reposicion.hora<<endl;
     fflush(stdin);
 }
 //********************************
-void setCodArt(Ingreso &ingreso,int codart){
-ingreso.cod_articulo=codart;
+void setCodArt(Reposicion &reposicion,int codart){
+reposicion.cod_articulo=codart;
 }
 //********************************
-void setCant(Ingreso &ingreso,int cant){
-ingreso.cantidad=cant;
+void setCant(Reposicion &reposicion,int cant){
+reposicion.cantidad=cant;
 }

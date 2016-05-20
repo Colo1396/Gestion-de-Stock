@@ -1,6 +1,6 @@
 #include <iostream>
 #include "Solicitud.h"
-#include "Ingreso.h"
+#include "Reposicion.h"
 #include "Camion.h"
 #include "Pilas.h"
 #include <cstdlib>
@@ -24,8 +24,8 @@ int main()
     Solicitud stockes;
     crearSolicitud(stockes);
     cout<<getHora(stockes)<<endl;
-    Ingreso ing;
-    crearIngreso(ing);
+    Reposicion ing;
+    crearReposicion(ing);
     cout<<getHora(ing)<<endl;
     fflush(stdin);
 
