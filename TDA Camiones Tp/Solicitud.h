@@ -11,7 +11,7 @@ char hora[150];
 //********************************
 void crearSolicitud(Solicitud &solicitud);
 //********************************
-void crearSolicitud(Solicitud &solicitud,int id_pedido,int cod_suc,int cod_articulo,int cantidad);
+void crearSolicitud(Solicitud &solicitud,int IdPed,int CodSuc,int CodArt,int cant,char hora);
 //********************************
 void destruirSolicitud(Solicitud &solicitud);
 //********************************

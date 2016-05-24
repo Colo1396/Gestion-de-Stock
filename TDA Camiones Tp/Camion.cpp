@@ -1,4 +1,6 @@
 #include "Camion.h"
+#include    <iostream>
+using namespace std;
 //como seria el id del camion?
 //********************************
 void crearCamion(Camion &camion){
@@ -49,4 +51,6 @@ void setId_suc(Camion &camion,int idSuc){
  camion.id_suc=idSuc;
 }
 //********************************
-void verCamion(Camion &camion){}
+/*verCamion(Camion &camion){
+cout<<camion.id_camion<<endl;
+}*/

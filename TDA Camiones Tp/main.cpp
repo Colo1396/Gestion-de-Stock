@@ -2,7 +2,6 @@
 #include "Solicitud.h"
 #include "Reposicion.h"
 #include "Camion.h"
-#include "Pilas.h"
 #include <cstdlib>
 #include <stdio.h>
 #include <conio.h>
@@ -15,9 +14,16 @@ int main()
 {
     cout << "Hello world!" << endl;
     Camion truc;
-    crearCamion(truc,123,3.1,2.35,68);
-    cout<<getId_Camion(truc)<<endl;
-    Solicitud stock;
+    Camion toyota;
+    crearCamion(toyota);
+
+    Camion ford;
+    crearCamion(ford,12,12.2,23.2,123);
+
+    cout<<getId_Camion(toyota)<<endl;
+    cout<<getId_Camion(ford)<<endl;
+
+    /*Solicitud stock;
     crearSolicitud(stock);
     cout<<getCodArt(stock)<<endl;
     cout<<"se viene la solicitud"<<endl;
@@ -28,11 +34,8 @@ int main()
     crearReposicion(ing);
     cout<<getHora(ing)<<endl;
     fflush(stdin);
+*/
 
-    Pila pila;
-    crearPila(pila);
-    push(pila,truc);
-    mostrar_pila(pila);
 
 
     return EXIT_SUCCESS;

@@ -14,22 +14,15 @@ solicitud.id_pedido=0;
 solicitud.cod_suc=0;
 solicitud.cod_articulo=0;
 solicitud.cantidad=0;
- //*************************//
- //          FECHA          //
- //*************************//
- time_t tiempo = time(0);
- struct tm *tlocal = localtime(&tiempo);
- char fechaaux[128];
- strftime(fechaaux,128,"%d/%m/%y %H:%M",tlocal);
- strcpy(solicitud.hora,fechaaux);
- // FIN FECHA
+//solicitud.hora='';
 }
 //********************************
-void crearSolicitud(Solicitud &solicitud,int IdPed,int CodSuc,int CodArt,int cant){
+void crearSolicitud(Solicitud &solicitud,int IdPed,int CodSuc,int CodArt,int cant,char hora){
 solicitud.id_pedido=IdPed;
 solicitud.cod_suc=CodSuc;
 solicitud.cod_articulo=CodArt;
 solicitud.cantidad=cant;
+//solicitud.hora=hora;
 }
 
 //********************************

@@ -9,7 +9,7 @@ char hora[150];
 //********************************
 void crearReposicion(Reposicion &reposicion);
 //********************************
-void crearReposicion(Reposicion &reposicion,int CodArt,int Cant);
+void crearReposicion(Reposicion &reposicion,int CodArt,int Cant,char hora);
 //********************************
 void destruirReposicion(Reposicion &reposicion);
 //********************************

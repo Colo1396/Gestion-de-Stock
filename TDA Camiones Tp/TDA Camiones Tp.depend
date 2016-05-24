@@ -31,12 +31,11 @@
 
 1463747652 c:\users\galva\documents\gestion-de-stock\tda camiones tp\ingreso.h
 
-1463754634 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\main.cpp
+1463787914 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\main.cpp
 	<iostream>
 	"Solicitud.h"
-	"Ingreso.h"
+	"Reposicion.h"
 	"Camion.h"
-	"Pilas.h"
 	<cstdlib>
 	<stdio.h>
 	<conio.h>
@@ -136,4 +135,58 @@
 
 1463783626 c:\users\galva\documents\gestion-de-stock\tda camiones tp\pilas.h
 	"Camion.h"
+
+1463784298 c:\users\galva\documents\gestion-de-stock\tda camiones tp\reposicion.h
+
+1463788015 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\reposicion.cpp
+	"Reposicion.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464017098 source:e:\gestion-de-stock\tda camiones tp\camion.cpp
+	"Camion.h"
+
+1464017058 e:\gestion-de-stock\tda camiones tp\camion.h
+
+1464016272 source:e:\gestion-de-stock\tda camiones tp\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Reposicion.h"
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464014598 e:\gestion-de-stock\tda camiones tp\solicitud.h
+
+1464014480 e:\gestion-de-stock\tda camiones tp\reposicion.h
+
+1464016284 source:e:\gestion-de-stock\tda camiones tp\reposicion.cpp
+	"Reposicion.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464016288 source:e:\gestion-de-stock\tda camiones tp\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
 

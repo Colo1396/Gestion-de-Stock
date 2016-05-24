@@ -25,7 +25,6 @@ Dato pop(Pila &pila){
     else{
 
         PtrNodoPila aux=pila.top->sgte;//podria ser cualquier ipo de de dato
-        //PtrNodoPila PtrNodoPilaAux=pila.top->sgte;
         Dato dato=pila.top->dato;
         delete pila.top;
         pila.top=aux;

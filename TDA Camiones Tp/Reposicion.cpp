@@ -1,34 +1,23 @@
 #include "Reposicion.h"
 #include <iostream>
-
+#include <cstdlib>
+#include <stdio.h>
+#include <conio.h>
+#include <string>
+#include <time.h>
+#include <cstring>
 using namespace std;
 //********************************
 void crearReposicion(Reposicion &reposicion){
 reposicion.cod_articulo=0;
 reposicion.cantidad=0;
- //*************************//
- //          FECHA          //
- //*************************//
- time_t tiempo = time(0);
- struct tm *tlocal = localtime(&tiempo);
- char fechaaux[150];
- strftime(fechaaux,150,"%d/%m/%y %H:%M",tlocal);
- strcpy(reposicion.hora,fechaaux);
- // FIN FECHA
+//reposicion.hora='';
 }
 //********************************
-void crearReposicion(Reposicion &reposicion,int CodArt,int Cant){
+void crearReposicion(Reposicion &reposicion,int CodArt,int Cant,char hora){
 reposicion.cod_articulo=CodArt;
 reposicion.cantidad=Cant;
- //*************************//
- //          FECHA          //
- //*************************//
- time_t tiempo = time(0);
- struct tm *tlocal = localtime(&tiempo);
- char fechaaux[150];
- strftime(fechaaux,150,"%d/%m/%y %H:%M",tlocal);
- strcpy(reposicion.hora,fechaaux);
- // FIN FECHA
+//reposicion.hora=hora;
 }
 //********************************
 void destruirReposicion(Reposicion &reposicion){
