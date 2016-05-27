@@ -38,6 +38,10 @@
 		<Unit filename="Camion.h" />
 		<Unit filename="FunnyProd.cpp" />
 		<Unit filename="FunnyProd.h" />
+		<Unit filename="Reposicion.cpp" />
+		<Unit filename="Reposicion.h" />
+		<Unit filename="Solicitud.cpp" />
+		<Unit filename="Solicitud.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

@@ -1,4 +1,6 @@
 #include <iostream>
+#include "Solicitud.h"
+#include "Reposicion.h"
 #include "Camion.h"
 #include <cstdlib>
 #include <stdio.h>

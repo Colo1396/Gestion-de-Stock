@@ -32,7 +32,7 @@
 
 1463747652 c:\users\galva\documents\gestion-de-stock\tda camiones tp\ingreso.h
 
-1464115506 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\main.cpp
+1464105144 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\main.cpp
 	<iostream>
 	"Solicitud.h"
 	"Reposicion.h"
@@ -200,7 +200,7 @@
 
 1464018202 c:\users\galva\documents\gestion-de-stock\tda camiones tp\articulos.h
 
-1464127990 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\funnyprod.cpp
+1464105472 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\funnyprod.cpp
 	<cstdlib>
 	<stdio.h>
 	<conio.h>
@@ -225,139 +225,5 @@
 	<ctype.h>
 	<iostream>
 
-1464115524 c:\users\galva\documents\gestion-de-stock\tda camiones tp\funnyprod.h
-
-1464018204 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\articulos.cpp
-	"Articulos.h"
-
-1464018202 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\articulos.h
-
-1464098117 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\camion.cpp
-	"Camion.h"
-	<iostream>
-
-1464017492 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\camion.h
-
-1464115505 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\main.cpp
-	<iostream>
-	"Solicitud.h"
-	"Reposicion.h"
-	"Camion.h"
-	<cstdlib>
-	<stdio.h>
-	<conio.h>
-	<string>
-	<time.h>
-	<cstring>
-	<iostream>
-	<stdlib.h>
-	<ctype.h>
-	"FunnyProd.h"
-
-1464014598 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\solicitud.h
-
-1464014480 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\reposicion.h
-
-1464115522 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\funnyprod.h
-
-1464016284 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\reposicion.cpp
-	"Reposicion.h"
-	<iostream>
-	<cstdlib>
-	<stdio.h>
-	<conio.h>
-	<string>
-	<time.h>
-	<cstring>
-
-1464016288 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\solicitud.cpp
-	"Solicitud.h"
-	"time.h"
-	<cstdlib>
-	<iostream>
-	<stdio.h>
-	<conio.h>
-	<string>
-	<time.h>
-	<cstring>
-
-1464115470 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\funnyprod.cpp
-	<cstdlib>
-	<stdio.h>
-	<conio.h>
-	<string>
-	<time.h>
-	<cstring>
-	<iostream>
-	<stdlib.h>
-	<ctype.h>
-	<iostream>
-	"FunnyProd.h"
-
-1464018204 source:c:\users\galva\documents\gestion-de-stock\tda-camiones-tpv3\tda camiones tpv3\articulos.cpp
-	"Articulos.h"
-
-1464018202 c:\users\galva\documents\gestion-de-stock\tda-camiones-tpv3\tda camiones tpv3\articulos.h
-
-1464098117 source:c:\users\galva\documents\gestion-de-stock\tda-camiones-tpv3\tda camiones tpv3\camion.cpp
-	"Camion.h"
-	<iostream>
-
-1464017492 c:\users\galva\documents\gestion-de-stock\tda-camiones-tpv3\tda camiones tpv3\camion.h
-
-1464127482 source:c:\users\galva\documents\gestion-de-stock\tda-camiones-tpv3\tda camiones tpv3\funnyprod.cpp
-	<cstdlib>
-	<stdio.h>
-	<conio.h>
-	<string>
-	<time.h>
-	<cstring>
-	<iostream>
-	<stdlib.h>
-	<ctype.h>
-	<iostream>
-	"FunnyProd.h"
-
-1464115522 c:\users\galva\documents\gestion-de-stock\tda-camiones-tpv3\tda camiones tpv3\funnyprod.h
-
-1464115505 source:c:\users\galva\documents\gestion-de-stock\tda-camiones-tpv3\tda camiones tpv3\main.cpp
-	<iostream>
-	"Solicitud.h"
-	"Reposicion.h"
-	"Camion.h"
-	<cstdlib>
-	<stdio.h>
-	<conio.h>
-	<string>
-	<time.h>
-	<cstring>
-	<iostream>
-	<stdlib.h>
-	<ctype.h>
-	"FunnyProd.h"
-
-1464014598 c:\users\galva\documents\gestion-de-stock\tda-camiones-tpv3\tda camiones tpv3\solicitud.h
-
-1464014480 c:\users\galva\documents\gestion-de-stock\tda-camiones-tpv3\tda camiones tpv3\reposicion.h
-
-1464016284 source:c:\users\galva\documents\gestion-de-stock\tda-camiones-tpv3\tda camiones tpv3\reposicion.cpp
-	"Reposicion.h"
-	<iostream>
-	<cstdlib>
-	<stdio.h>
-	<conio.h>
-	<string>
-	<time.h>
-	<cstring>
-
-1464016288 source:c:\users\galva\documents\gestion-de-stock\tda-camiones-tpv3\tda camiones tpv3\solicitud.cpp
-	"Solicitud.h"
-	"time.h"
-	<cstdlib>
-	<iostream>
-	<stdio.h>
-	<conio.h>
-	<string>
-	<time.h>
-	<cstring>
+1464104108 c:\users\galva\documents\gestion-de-stock\tda camiones tp\funnyprod.h
 
