@@ -32,10 +32,8 @@
 
 1463747652 c:\users\galva\documents\gestion-de-stock\tda camiones tp\ingreso.h
 
-1464115506 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\main.cpp
+1464399593 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\main.cpp
 	<iostream>
-	"Solicitud.h"
-	"Reposicion.h"
 	"Camion.h"
 	<cstdlib>
 	<stdio.h>
@@ -47,6 +45,8 @@
 	<stdlib.h>
 	<ctype.h>
 	"FunnyProd.h"
+	<fstream>
+	"Articulos.h"
 
 1464014598 c:\users\galva\documents\gestion-de-stock\tda camiones tp\solicitud.h
 
@@ -153,15 +153,14 @@
 	<time.h>
 	<cstring>
 
-1464017098 source:e:\gestion-de-stock\tda camiones tp\camion.cpp
+1464098118 source:e:\gestion-de-stock\tda camiones tp\camion.cpp
 	"Camion.h"
-
-1464017058 e:\gestion-de-stock\tda camiones tp\camion.h
-
-1464016272 source:e:\gestion-de-stock\tda camiones tp\main.cpp
 	<iostream>
-	"Solicitud.h"
-	"Reposicion.h"
+
+1464017492 e:\gestion-de-stock\tda camiones tp\camion.h
+
+1464619058 source:e:\gestion-de-stock\tda camiones tp\main.cpp
+	<iostream>
 	"Camion.h"
 	<cstdlib>
 	<stdio.h>
@@ -169,6 +168,12 @@
 	<string>
 	<time.h>
 	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	"FunnyProd.h"
+	<fstream>
+	"Articulos.h"
 
 1464014598 e:\gestion-de-stock\tda camiones tp\solicitud.h
 
@@ -195,12 +200,9 @@
 	<time.h>
 	<cstring>
 
-1464018204 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\articulos.cpp
+1464364377 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\articulos.cpp
 	"Articulos.h"
-
-1464018202 c:\users\galva\documents\gestion-de-stock\tda camiones tp\articulos.h
-
-1464127990 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\funnyprod.cpp
+	<iostream>
 	<cstdlib>
 	<stdio.h>
 	<conio.h>
@@ -210,8 +212,24 @@
 	<iostream>
 	<stdlib.h>
 	<ctype.h>
+
+1464364352 c:\users\galva\documents\gestion-de-stock\tda camiones tp\articulos.h
+
+1464362490 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\funnyprod.cpp
 	<iostream>
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
 	"FunnyProd.h"
+	<fstream>
+	<fstream>
 
 1464101722 c:\users\galva\documents\gestion-de-stock\tda camiones tp\funnyprod.cpp
 	<cstdlib>
@@ -225,7 +243,7 @@
 	<ctype.h>
 	<iostream>
 
-1464115524 c:\users\galva\documents\gestion-de-stock\tda camiones tp\funnyprod.h
+1464362542 c:\users\galva\documents\gestion-de-stock\tda camiones tp\funnyprod.h
 
 1464018204 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\articulos.cpp
 	"Articulos.h"
@@ -360,4 +378,92 @@
 	<string>
 	<time.h>
 	<cstring>
+
+1464364378 source:g:\gestion-de-stock\tda camiones tp\articulos.cpp
+	"Articulos.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+
+1464364354 g:\gestion-de-stock\tda camiones tp\articulos.h
+
+1464098118 source:g:\gestion-de-stock\tda camiones tp\camion.cpp
+	"Camion.h"
+	<iostream>
+
+1464017492 g:\gestion-de-stock\tda camiones tp\camion.h
+
+1464362492 source:g:\gestion-de-stock\tda camiones tp\funnyprod.cpp
+	<iostream>
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	"FunnyProd.h"
+	<fstream>
+	<fstream>
+
+1464362544 g:\gestion-de-stock\tda camiones tp\funnyprod.h
+
+1464619058 source:g:\gestion-de-stock\tda camiones tp\main.cpp
+	<iostream>
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	"FunnyProd.h"
+	<fstream>
+	"Articulos.h"
+
+1464364378 source:e:\gestion-de-stock\tda camiones tp\articulos.cpp
+	"Articulos.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+
+1464364354 e:\gestion-de-stock\tda camiones tp\articulos.h
+
+1464362492 source:e:\gestion-de-stock\tda camiones tp\funnyprod.cpp
+	<iostream>
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	"FunnyProd.h"
+	<fstream>
+	<fstream>
+
+1464362544 e:\gestion-de-stock\tda camiones tp\funnyprod.h
 

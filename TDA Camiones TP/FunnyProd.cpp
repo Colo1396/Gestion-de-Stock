@@ -1,3 +1,5 @@
+#include <iostream>
+#include "Camion.h"
 #include <cstdlib>
 #include <stdio.h>
 #include <conio.h>
@@ -7,8 +9,8 @@
 #include <iostream>
 #include <stdlib.h>
 #include <ctype.h>
-#include <iostream>
 #include "FunnyProd.h"
+#include <fstream>
 
 void correr(FILE *ptrING,FILE *ptrSOL){
 
@@ -20,14 +22,7 @@ char Hora[10];
 
 char cadenaI[50];
 char* cpToken;
-//FILE *ptrING;
 
-/*
-    if((ptrING=fopen("ingresos.db","r"))==NULL){
-          system("cls");
-          printf("\n\nEl Archivo de INGRESOS no existe\n");
-          }
-*/
     int PosIniING=ftell(ptrING);
     printf("Posicion antes de leer INGRESO: %d\n",PosIniING);
     //LEE LA PRIMER CADENA EN EL ARCHIVO INGRESO
@@ -227,7 +222,7 @@ char Hora[10];
 
 char cadena[150];
 char* cpToken;
-int atoied = 1;
+
 int hh,mm,st;
 DatosSolicitud Datos;
 FILE *ptr1;
@@ -280,6 +275,42 @@ FILE *ptr1;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//FILE *ptrING;
+
+/*
+    if((ptrING=fopen("ingresos.db","r"))==NULL){
+          system("cls");
+          printf("\n\nEl Archivo de INGRESOS no existe\n");
+          }
+*/
+
+
 /*
 void volverlinea(FILE *ptro){
 char caracter;
@@ -289,3 +320,50 @@ seek( ptro, -2, SEEK_CUR );
 fread (&caracter, sizeof(caracter), 1, ptro);
 }
 }*/
+/*
+void mostrarArt(){
+#include <fstream>
+struct DatosArt{
+char CodArt[30];
+char precio[30];
+char desc[100];
+}DatoA;
+    ifstream archivo("articulos.db");
+    char linea[128];
+    char* cpToken;
+
+    if(archivo.fail())
+    cerr << "Error al abrir el archivo articulos" << endl;
+    else
+    while(!archivo.eof())
+    {
+        archivo.getline(linea, sizeof(linea));
+            cpToken = strtok (linea, ";");
+            strcpy(DatoA.CodArt,cpToken);
+            cpToken = strtok (NULL, ";");
+            strcpy(DatoA.precio,cpToken);
+            cpToken = strtok (NULL, ";");
+            strcpy(DatoA.desc,cpToken);
+
+        cout<<"Cod.Art||"<<"Precio||"<<"Descipcion||"<<"\n"<<endl;
+        cout<<"  "<<DatoA.CodArt<<"\t|"
+            <<DatoA.precio<<"\t|"
+            <<DatoA.desc<<"|\n"<<endl;
+    }
+    archivo.close();
+
+
+    }
+/*
+FILE *ptrART; //puntero de archivo articulo.
+    if((ptrART=fopen("articulos.db","r"))==NULL){
+          system("cls");
+          printf("\n\nEl Archivo de Articulo no existe\n");
+          }
+    char strArt[30];
+
+    while((fscanf(ptrArt, "%s", strArt))!=EOF){
+    printf("%s\n",strArt);
+    }
+    getch();
+fclose(ptrART);// CERRAMOS EL ARCHIVO DE ARTICULO AL FINAL DEL PROGRAMA*/

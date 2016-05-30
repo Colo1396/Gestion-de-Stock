@@ -1,0 +1,50 @@
+//***VER ARCHIVO ARTICULOS****
+#include <stdio.h>
+#include <conio.h>
+#include <string>
+#include <time.h>
+#include <cstring>
+#include <iostream>
+#include <stdlib.h>
+#include <ctype.h>
+#include <fstream>
+
+using namespace std;
+
+void mostrarArt(){
+struct DatosArt{
+char CodArt[30];
+char precio[30];
+char desc[100];
+}DatoA;
+    ifstream archivo("articulos.db");
+    char linea[128];
+    char* cpToken;
+
+    if(archivo.fail())
+    cerr << "Error al abrir el archivo articulos" << endl;
+    else
+    while(!archivo.eof())
+    {
+        archivo.getline(linea, sizeof(linea));
+            cpToken = strtok (linea, ";");
+            strcpy(DatoA.CodArt,cpToken);
+            cpToken = strtok (NULL, ";");
+            strcpy(DatoA.precio,cpToken);
+            cpToken = strtok (NULL, ";");
+            strcpy(DatoA.desc,cpToken);
+
+        cout<<"Cod.Art||"<<"Precio||"<<"Descipcion||"<<"\n"<<endl;
+        cout<<"  "<<DatoA.CodArt<<"\t|"
+            <<DatoA.precio<<"\t|"
+            <<DatoA.desc<<"|\n"<<endl;
+    }
+    archivo.close();
+}
+
+int main()
+{
+
+    mostrarArt();
+    return EXIT_SUCCESS;
+}

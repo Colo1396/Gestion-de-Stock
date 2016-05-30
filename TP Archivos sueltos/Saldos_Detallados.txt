@@ -1,0 +1,88 @@
+1;54;545;21145;121         
+void saldosDetallados(){
+
+   /* a.	Saldos detallados.txt: Saldos de stock con el siguiente formato:
+Nro Calle, piso, ubicación, codArticulo, cantidad
+Ordenado por Nro Calle asc, piso asc, ubicación asc.*/
+
+struct SalDet{
+int nroCalle;
+int piso;
+int ub;
+int codArt;
+float cant;
+}sd;
+
+FILE * ptrSD;
+int auxnroCalle,auxpiso,auxub,auxcodArt,cont=0;
+float auxcant;
+if((ptrSD=fopen("Saldos_Detallados.txt","a"))==NULL){
+          system("cls");
+          printf("\n\nEl Archivo de INGRESOS no existe\n");
+          }
+
+
+
+while (cont==0){
+
+cout<<"nrocalle:"<<endl;
+cin>>auxnroCalle;
+cout<<"piso:"<<endl;
+cin>>auxpiso;
+cout<<"ubicacion:"<<endl;
+cin>>auxub;
+cout<<"cod art:"<<endl;
+cin>>auxcodArt;
+cout<<"cantidad:"<<endl;
+cin>>auxcant;
+
+sd.nroCalle=auxnroCalle;
+sd.piso=auxpiso;
+sd.ub=auxub;
+sd.codArt=auxcodArt;
+sd.cant=auxcant;
+
+fwrite(&sd,sizeof(sd),1,ptrSD);
+
+cout<<"desea continuar?"<<endl;
+cin>>cont;
+}
+ fclose(ptrSD);
+
+}
+void leerSaldosDeta(){
+
+
+ifstream saldet;
+    saldet.open("Saldos_Detallados.txt",ios::in);
+
+    char linea[128];
+    if(saldet.fail())
+    cerr << "Error al abrir el archivo de saldos detallados" << endl;
+    else
+
+    while(!saldet.eof())
+    {
+    saldet.getline(linea, sizeof(linea));
+    cout<<linea<<endl;
+    }
+    saldet.close();
+    /*
+    struct SalDet{
+int nroCalle;
+int piso;
+int ub;
+int codArt;
+float cant;
+}sd;
+    FILE *ptrSD;
+    //NO FUNCIONA ESTA PORONGA
+ptrSD=fopen("Saldos_Detallados.txt","r");
+//while(feof(ptrSD)==0)
+while((fscanf(ptrSD,"%d\t%d\t%d\t%d\t%f\n",sd.nroCalle,sd.codArt,sd.piso,sd.ub,sd.cant))!=EOF){
+printf("%d\t%d\t%d\t%d\t%.2f\n",sd.nroCalle,sd.codArt,sd.piso,sd.ub,sd.cant);
+fscanf(ptrSD,"%d\t%d\t%d\t%d\t%f\n",sd.nroCalle,sd.codArt,sd.piso,sd.ub,sd.cant);
+}
+
+fclose(ptrSD);*/
+}

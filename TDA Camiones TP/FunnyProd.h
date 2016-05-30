@@ -11,4 +11,5 @@ void volverlinea(FILE *ptro);
 
 void correr(FILE *ptrING,FILE *ptrSOL);
 
+
 #endif // __FUNNYPROD_H__

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1463785202 source:g:\gestion-de-stock\pilas de int\main.cpp
+	<iostream>
+	"Pilas.h"
+
+1463753916 g:\gestion-de-stock\pilas de int\pilas.h
+
+1463754794 source:g:\gestion-de-stock\pilas de int\pilas.cpp
+	"Pilas.h"
+	<iostream>
+

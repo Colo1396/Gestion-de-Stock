@@ -1,0 +1,686 @@
+# depslib dependency file v1.0
+1463623906 source:c:\users\galva\desktop\unla 2016\aied\tda camiones tp\camion.cpp
+	"Camion.h"
+
+1463623906 c:\users\galva\desktop\unla 2016\aied\tda camiones tp\camion.h
+
+1463622765 source:c:\users\galva\desktop\unla 2016\aied\tda camiones tp\ingreso.cpp
+	"Ingreso.h"
+
+1463624842 c:\users\galva\desktop\unla 2016\aied\tda camiones tp\ingreso.h
+
+1463624623 source:c:\users\galva\desktop\unla 2016\aied\tda camiones tp\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Ingreso.h"
+	"Camion.h"
+
+1463622929 source:c:\users\galva\desktop\unla 2016\aied\tda camiones tp\solicitud.cpp
+	"Solicitud.h"
+
+1463622929 c:\users\galva\desktop\unla 2016\aied\tda camiones tp\solicitud.h
+
+1464098117 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\camion.cpp
+	"Camion.h"
+	<iostream>
+
+1464017492 c:\users\galva\documents\gestion-de-stock\tda camiones tp\camion.h
+
+1463747634 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\ingreso.cpp
+	"Ingreso.h"
+	<iostream>
+
+1463747652 c:\users\galva\documents\gestion-de-stock\tda camiones tp\ingreso.h
+
+1464105142 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Reposicion.h"
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	"FunnyProd.h"
+
+1464014598 c:\users\galva\documents\gestion-de-stock\tda camiones tp\solicitud.h
+
+1464016288 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1463746444 source:f:\gestion-de-stock\tda camiones tp\camion.cpp
+	"Camion.h"
+
+1463746444 f:\gestion-de-stock\tda camiones tp\camion.h
+
+1463747494 source:f:\gestion-de-stock\tda camiones tp\ingreso.cpp
+	"Ingreso.h"
+	<iostream>
+
+1463746966 f:\gestion-de-stock\tda camiones tp\ingreso.h
+
+1463747352 source:f:\gestion-de-stock\tda camiones tp\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Ingreso.h"
+	"Camion.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1463714572 f:\gestion-de-stock\tda camiones tp\solicitud.h
+
+1463746778 source:f:\gestion-de-stock\tda camiones tp\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1463754524 source:f:\tda camiones tp probando pilas\camion.cpp
+	"Camion.h"
+
+1463755212 f:\tda camiones tp probando pilas\camion.h
+
+1463747634 source:f:\tda camiones tp probando pilas\ingreso.cpp
+	"Ingreso.h"
+	<iostream>
+
+1463747652 f:\tda camiones tp probando pilas\ingreso.h
+
+1463746778 source:f:\tda camiones tp probando pilas\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1463714572 f:\tda camiones tp probando pilas\solicitud.h
+
+1463754634 source:f:\tda camiones tp probando pilas\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Ingreso.h"
+	"Camion.h"
+	"Pilas.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1463754338 f:\tda camiones tp probando pilas\pilas.h
+	"Camion.h"
+
+1463783626 c:\users\galva\documents\gestion-de-stock\tda camiones tp\pilas.h
+	"Camion.h"
+
+1464014480 c:\users\galva\documents\gestion-de-stock\tda camiones tp\reposicion.h
+
+1464016284 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\reposicion.cpp
+	"Reposicion.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464017098 source:e:\gestion-de-stock\tda camiones tp\camion.cpp
+	"Camion.h"
+
+1464017058 e:\gestion-de-stock\tda camiones tp\camion.h
+
+1464016272 source:e:\gestion-de-stock\tda camiones tp\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Reposicion.h"
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464014598 e:\gestion-de-stock\tda camiones tp\solicitud.h
+
+1464014480 e:\gestion-de-stock\tda camiones tp\reposicion.h
+
+1464016284 source:e:\gestion-de-stock\tda camiones tp\reposicion.cpp
+	"Reposicion.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464016288 source:e:\gestion-de-stock\tda camiones tp\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464018204 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\articulos.cpp
+	"Articulos.h"
+
+1464018202 c:\users\galva\documents\gestion-de-stock\tda camiones tp\articulos.h
+
+1464104230 source:c:\users\galva\documents\gestion-de-stock\tda camiones tp\funnyprod.cpp
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"FunnyProd.h"
+
+1464101722 c:\users\galva\documents\gestion-de-stock\tda camiones tp\funnyprod.cpp
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+
+1464104106 c:\users\galva\documents\gestion-de-stock\tda camiones tp\funnyprod.h
+
+1464018204 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\articulos.cpp
+	"Articulos.h"
+
+1464018202 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\articulos.h
+
+1464098117 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\camion.cpp
+	"Camion.h"
+	<iostream>
+
+1464017492 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\camion.h
+
+1464115505 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Reposicion.h"
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	"FunnyProd.h"
+
+1464014598 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\solicitud.h
+
+1464014480 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\reposicion.h
+
+1464115522 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\funnyprod.h
+
+1464016284 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\reposicion.cpp
+	"Reposicion.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464016288 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464115470 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv2\funnyprod.cpp
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"FunnyProd.h"
+
+1464018204 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv3\articulos.cpp
+	"Articulos.h"
+
+1464018202 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv3\articulos.h
+
+1464098117 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv3\camion.cpp
+	"Camion.h"
+	<iostream>
+
+1464017492 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv3\camion.h
+
+1464292031 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv3\funnyprod.cpp
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"FunnyProd.h"
+
+1464115522 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv3\funnyprod.h
+
+1464355592 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv3\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Reposicion.h"
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	"FunnyProd.h"
+
+1464014598 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv3\solicitud.h
+
+1464014480 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv3\reposicion.h
+
+1464016284 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv3\reposicion.cpp
+	"Reposicion.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464016288 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv3\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464018204 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv4\articulos.cpp
+	"Articulos.h"
+
+1464018202 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv4\articulos.h
+
+1464098117 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv4\camion.cpp
+	"Camion.h"
+	<iostream>
+
+1464017492 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv4\camion.h
+
+1464357157 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv4\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Reposicion.h"
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	"FunnyProd.h"
+
+1464014598 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv4\solicitud.h
+
+1464014480 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv4\reposicion.h
+
+1464115522 d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv4\funnyprod.h
+
+1464016284 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv4\reposicion.cpp
+	"Reposicion.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464016288 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv4\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464357028 source:d:\pc\desktop\diego\unla\ayed\tp grupal\pruebas\tda camiones tpv4\funnyprod.cpp
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"FunnyProd.h"
+
+1464018204 source:c:\users\galva\documents\gestion-de-stock\tda camiones tpv4\articulos.cpp
+	"Articulos.h"
+
+1464018202 c:\users\galva\documents\gestion-de-stock\tda camiones tpv4\articulos.h
+
+1464098117 source:c:\users\galva\documents\gestion-de-stock\tda camiones tpv4\camion.cpp
+	"Camion.h"
+	<iostream>
+
+1464017492 c:\users\galva\documents\gestion-de-stock\tda camiones tpv4\camion.h
+
+1464357643 source:c:\users\galva\documents\gestion-de-stock\tda camiones tpv4\funnyprod.cpp
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"FunnyProd.h"
+
+1464115522 c:\users\galva\documents\gestion-de-stock\tda camiones tpv4\funnyprod.h
+
+1464357157 source:c:\users\galva\documents\gestion-de-stock\tda camiones tpv4\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Reposicion.h"
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	"FunnyProd.h"
+
+1464014598 c:\users\galva\documents\gestion-de-stock\tda camiones tpv4\solicitud.h
+
+1464014480 c:\users\galva\documents\gestion-de-stock\tda camiones tpv4\reposicion.h
+
+1464016284 source:c:\users\galva\documents\gestion-de-stock\tda camiones tpv4\reposicion.cpp
+	"Reposicion.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464016288 source:c:\users\galva\documents\gestion-de-stock\tda camiones tpv4\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464018204 source:g:\gestion-de-stock\tda camiones tpv4\articulos.cpp
+	"Articulos.h"
+
+1464018202 g:\gestion-de-stock\tda camiones tpv4\articulos.h
+
+1464098118 source:g:\gestion-de-stock\tda camiones tpv4\camion.cpp
+	"Camion.h"
+	<iostream>
+
+1464017492 g:\gestion-de-stock\tda camiones tpv4\camion.h
+
+1464357644 source:g:\gestion-de-stock\tda camiones tpv4\funnyprod.cpp
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"FunnyProd.h"
+
+1464115524 g:\gestion-de-stock\tda camiones tpv4\funnyprod.h
+
+1464016284 source:g:\gestion-de-stock\tda camiones tpv4\reposicion.cpp
+	"Reposicion.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464014480 g:\gestion-de-stock\tda camiones tpv4\reposicion.h
+
+1464016288 source:g:\gestion-de-stock\tda camiones tpv4\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464014598 g:\gestion-de-stock\tda camiones tpv4\solicitud.h
+
+1464018204 source:e:\gestion-de-stock\tda camiones tpv4\articulos.cpp
+	"Articulos.h"
+
+1464018202 e:\gestion-de-stock\tda camiones tpv4\articulos.h
+
+1464098118 source:e:\gestion-de-stock\tda camiones tpv4\camion.cpp
+	"Camion.h"
+	<iostream>
+
+1464017492 e:\gestion-de-stock\tda camiones tpv4\camion.h
+
+1464357644 source:e:\gestion-de-stock\tda camiones tpv4\funnyprod.cpp
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"FunnyProd.h"
+
+1464115524 e:\gestion-de-stock\tda camiones tpv4\funnyprod.h
+
+1464016284 source:e:\gestion-de-stock\tda camiones tpv4\reposicion.cpp
+	"Reposicion.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464014480 e:\gestion-de-stock\tda camiones tpv4\reposicion.h
+
+1464016288 source:e:\gestion-de-stock\tda camiones tpv4\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464014598 e:\gestion-de-stock\tda camiones tpv4\solicitud.h
+
+1464623596 source:e:\gestion-de-stock\tda camiones tpv4\listacalle.cpp
+
+1464624814 source:e:\gestion-de-stock\tda camiones tpv4\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Reposicion.h"
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	"FunnyProd.h"
+
+1464018204 source:g:\gestion-de-stock\tda camiones tpv6\articulos.cpp
+	"Articulos.h"
+
+1464018202 g:\gestion-de-stock\tda camiones tpv6\articulos.h
+
+1464098118 source:g:\gestion-de-stock\tda camiones tpv6\camion.cpp
+	"Camion.h"
+	<iostream>
+
+1464017492 g:\gestion-de-stock\tda camiones tpv6\camion.h
+
+1464623596 source:g:\gestion-de-stock\tda camiones tpv6\listacalle.cpp
+
+1464624792 source:g:\gestion-de-stock\tda camiones tpv6\main.cpp
+	<iostream>
+	"Solicitud.h"
+	"Reposicion.h"
+	"Camion.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	"FunnyProd.h"
+
+1464014598 g:\gestion-de-stock\tda camiones tpv6\solicitud.h
+
+1464014480 g:\gestion-de-stock\tda camiones tpv6\reposicion.h
+
+1464115524 g:\gestion-de-stock\tda camiones tpv6\funnyprod.h
+
+1464016284 source:g:\gestion-de-stock\tda camiones tpv6\reposicion.cpp
+	"Reposicion.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464016288 source:g:\gestion-de-stock\tda camiones tpv6\solicitud.cpp
+	"Solicitud.h"
+	"time.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+
+1464624760 source:g:\gestion-de-stock\tda camiones tpv6\funnyprod.cpp
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<time.h>
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"FunnyProd.h"
+

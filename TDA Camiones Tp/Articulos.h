@@ -4,7 +4,7 @@
 typedef struct {
 int codart;
 float precio;
-char descripcion[30];
+char descripcion[11];
 }Articulos;
 
 void contructor(Articulos &articulos);
